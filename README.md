@@ -19,6 +19,11 @@ git clone https://github.com/seu-usuario/bateria-virtual.git
 2.Abra o arquivo index.html em seu navegador web.
 3.Pressione o mouse nos quadrados.
 
+### Tecnologias utilizadas
+- ``HTML``
+- ``CSS``
+- ``JavaScript``
+
 ### Créditos
 Créditos
 Este projeto foi desenvolvido como parte do curso "JavaScript para Web: Crie páginas dinâmicas", oferecido pela ALURA.
